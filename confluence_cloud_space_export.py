@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
 # Configuration
-confluence_base_url = 'https://cloudhealthtech.atlassian.net/wiki'
+confluence_base_url = 'https://yourdomain.atlassian.net/wiki'
 download_directory = 'path/to/download/directory'
 
 # Ensure the download directory exists
